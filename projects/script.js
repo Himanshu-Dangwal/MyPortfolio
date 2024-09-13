@@ -47,10 +47,10 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="/assets/images/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
-        <h3>${project.name}</h3>
+        <h3>${project.name} + ${project.image}</h3>
         </div>
         <div class="desc">
           <p>${project.desc}</p>
