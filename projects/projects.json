@@ -10,16 +10,6 @@
     }
   },
   {
-    "name": "Card Game",
-    "desc": "This project revolves around the concept of an Uno game, providing an opportunity for up to four players to connect simultaneously and partake in the enjoyable experience of playing.",
-    "category": "mern",
-    "image": "cardGame",
-    "links": {
-      "view": "https://card-game.dangwalhimanshu.com/",
-      "code": "https://github.com/Himanshu-Dangwal/Card-Game-Backend"
-    }
-  },
-  {
     "name": "Coding Platform",
     "desc": "This is a complete end to end Coding Platform to learn and solve DSA questions. Also make sure to participate in contests",
     "image": "CodeBuddy",
