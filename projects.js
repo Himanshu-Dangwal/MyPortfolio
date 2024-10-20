@@ -6,7 +6,7 @@ let projects = [
     "category": "mern",
     "image": "cloudNotebook",
     "links": {
-      "view": "https://cloud-book-frontend.vercel.app/about",
+      "view": "https://cloud-book.dangwalhimanshu.com/",
       "code": "https://github.com/Himanshu-Dangwal/cloud-book-frontend.git"
     }
   },
@@ -16,18 +16,18 @@ let projects = [
     "category": "mern",
     "image": "cardGame",
     "links": {
-      "view": "https://card-game-frontend-two.vercel.app/",
+      "view": "https://card-game.dangwalhimanshu.com/",
       "code": "https://github.com/Himanshu-Dangwal/Card-Game-Backend"
     }
   },
   {
-    "name": "Banking Application",
-    "desc": "This project is about a complete banking application, mostly focused on backend created in Java SpringBoot.",
-    "image": "bankingapplication",
-    "category": "backend",
+    "name": "Coding Platform",
+    "desc": "This is a complete end to end Coding Platform to learn and solve DSA questions. Also make sure to participate in contests",
+    "image": "CodeBuddy",
+    "category": "mern",
     "links": {
-      "view": "https://github.com/Himanshu-Dangwal/BankingApplication",
-      "code": "https://github.com/Himanshu-Dangwal/BankingApplication"
+      "view": "https://codebuddy.dangwalhimanshu.com",
+      "code": "https://github.com/Himanshu-Dangwal/Coding-Platform-Primary-Backend"
     }
   }
 ]
